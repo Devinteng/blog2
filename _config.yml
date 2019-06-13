@@ -75,7 +75,7 @@ ga_domain: dxh.xyz
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: 
+sidebar-about-description: 瞎写，慎看!
 #sidebar-avatar:      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
