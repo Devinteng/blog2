@@ -7,7 +7,7 @@
 普通人  
 妄想暴富    
 一切随缘    
-bb几句记录生活
+bb几句记录生活  
 Hosted by [GitHub Pages](https://pages.github.com/), CDN by [Cloudflare](https://www.cloudflare.com/), 域名在[NameSilo](https://www.namesilo.com/?rid=baa1b76ph)购买
 
 ##### 联系
