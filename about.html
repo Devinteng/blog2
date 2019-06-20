@@ -15,6 +15,10 @@ order: 2
 
 <!-- Chinese Version -->
 <div class="zh post-container">
+    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
+    {{ about_zh | markdownify }}
+</div>
+
     <!--copied from markdown -->
     <blockquote>我从闹市来，到此觅空谷。</blockquote>
     <!-- music -->
