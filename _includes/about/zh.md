@@ -10,9 +10,9 @@ Hosted by [GitHub Pages](https://pages.github.com/), CDN by [Cloudflare](https:/
   • [Instagram](https://www.instagram.com/caiwoshiwho)
  <br/>
 ##### 历史
-  • 2019.05.23 注册域名dxh.xyz （~~都喜欢.小姨子~~😱）   
-  • 2019.05.31 第一篇blog[“没有购买欲望的Redmi K20 Pro”](https://dxh.xyz/2019/05/31/Redmi-K20-pro/)
-  • 2019.06.04 把域名解析从DNSPod搬到<a href="https://www.cloudflare.com/"> Cloudflare</a>, 开启免费CDN加速</i>
+  &nbsp;• *2019.05.23 注册域名dxh.xyz （~~都喜欢.小姨子~~😱）   
+  &nbsp;• 2019.05.31 第一篇blog[“没有购买欲望的Redmi K20 Pro”](https://dxh.xyz/2019/05/31/Redmi-K20-pro/)  
+  &nbsp;• 2019.06.04 把域名解析从DNSPod搬到<a href="https://www.cloudflare.com/"> Cloudflare</a>, 开启免费CDN加速</i>
  <br/>
 
  
