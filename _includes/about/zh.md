@@ -15,10 +15,10 @@ Hosted by [GitHub Pages](https://pages.github.com/), CDN by [Cloudflare](https:/
  • [Instagram](https://www.instagram.com/caiwoshiwho)
  <br/>
 ##### 历史
-• *2019.05.23 购入域名dxh.xyz （~~都喜欢.小姨子~~）*   
-• *2019.05.24 选择模板[Hux](https://github.com/Huxpro/huxpro.github.io)*  
-• *2019.05.31 [第一篇blog](https://dxh.xyz/2019/05/31/Redmi-K20-pro/)*    
-• *2019.06.04 [DNSPod](https://www.dnspod.cn) ⇨ →[Cloudflare](https://www.cloudflare.com/) *
+• *2019.05.23 购入域名 dxh.xyz （~~都喜欢.小姨子~~）*   
+• *2019.05.24 选择模板 [Hux](https://github.com/Huxpro/huxpro.github.io)*  
+• *2019.05.31 [第一篇 blog](https://dxh.xyz/2019/05/31/Redmi-K20-pro/)*    
+• *2019.06.04 [DNSPod](https://www.dnspod.cn) ⇨ [Cloudflare](https://www.cloudflare.com/)*
  <br/>
 
  
