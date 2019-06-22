@@ -11,7 +11,7 @@ bb几句记录生活
 Hosted by [GitHub Pages](https://pages.github.com/), CDN by [Cloudflare](https://www.cloudflare.com/), 域名在 [NameSilo](https://www.namesilo.com/?rid=baa1b76ph) 购买
 ##### 联系
  • [Twitter](https://twitter.com/caiwoshiwho)  
- • [Instagram](https://www.instagram.com/caiwoshiwho)
+ • [Instagram](https://www.instagram.com/caiwoshiwho)  
  • <i@dxh.xyz>
  <br/>
 ##### 历史
