@@ -23,8 +23,11 @@
                     <li>
                         <a href="{{ site.baseurl }}/">Home</a>
                     </li>
-                   {% assign sorted_pages = site.pages | sort:"order" %}
-                   {% for page in sorted_pages %}{% if page.title %}
+                    <li>
+                        <a href="https://docs.qq.com/doc/DS0hRcXNkVGRIU0hE">Pictures</a>
+                    </li>
+                   {% for page in site.pages %}
+                    {% if page.title and page.hide-in-nav != true %}
                     <li>
                         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                     </li>
