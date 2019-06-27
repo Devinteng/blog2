@@ -73,7 +73,7 @@ ga_domain: dxh.xyz
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: <span class="heimu" title="">哲学家，思想家，教育家，老人家...</span><br/>瞎写，慎看！<br/><a href="https://dxh.xyz/2019/06/20/%E5%87%8F%E8%82%A5%E4%B8%A4%E4%B8%AA%E6%9C%88/">清水煮万物</a>
+sidebar-about-description: <span class="heimu" title="">哲学家，思想家，教育家，老人家...</span><br/>瞎写，慎看！<br/><a href="">Updated: 清水煮万物</a>
 sidebar-avatar:  img/school.JPG   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
