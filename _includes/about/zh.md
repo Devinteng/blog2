@@ -7,7 +7,7 @@
 普通人  
 渴望暴富        
 bb几句记录生活  
-##### SOCIAL MEDIA
+##### 联系
  • [Twitter](https://twitter.com/caiwoshiwho)  
  • [Instagram](https://www.instagram.com/caiwoshiwho)  
 ##### 历史
