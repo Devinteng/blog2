@@ -6,10 +6,7 @@
 90后  
 普通人  
 渴望暴富        
-bb几句记录生活  
-##### 联系
- • [Twitter](https://twitter.com/caiwoshiwho)  
- • [Instagram](https://www.instagram.com/caiwoshiwho)  
+bb几句记录生活   
 ##### 历史
 • *2019.05.23 购入域名 dxh.xyz （~~都喜欢.小姨子~~）*   
  <br/>
